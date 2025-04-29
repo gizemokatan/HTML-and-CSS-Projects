@@ -1,0 +1,32 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60%;
+}
+
+body{
+    font-size: 20px;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+    color: #507791;
+    background-color: #fff;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #03315f;
+}
+
+p{
+    font-weight: 300;
+    line-height: 30px;
+    padding-bottom: 15px;
+}
+
+form input[type = "text"] {
+    color: #000;
+    background-color: #c8ddf1;
+    border: #2b4b61;
+    border-radius: 5px;
+}
